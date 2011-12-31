@@ -1,0 +1,4 @@
+SYNOPSYS
+
+    git clone git@github.com:okamuuu/Practice-JsTestDriver.git
+    sh script/jstestdriver.sh
